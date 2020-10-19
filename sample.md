@@ -23,7 +23,6 @@ Game di buat berdasarkan rencana konsep terhubung dengan Arduino sebagai control
 
 email me @ [bagusrezakharisma@gmail.com](bagusrezakharisma@gmail.com)
 
-atas perhatiannya saya ucapkan banyak terimakasih.
 
 
 
