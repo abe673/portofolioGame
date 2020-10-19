@@ -21,6 +21,12 @@ sprint game 2 player untuk pc *NOTE input player1 = key Q dan W ,dan Player2 = O
 
 Game di buat berdasarkan rencana konsep terhubung dengan Arduino sebagai control input.
 
+software yang digunakan :
+1.Unity3d
+2.blender
+3.AdobeIllustrator
+4.vsCode
+
 email me @ [bagusrezakharisma@gmail.com](bagusrezakharisma@gmail.com)
 
 
