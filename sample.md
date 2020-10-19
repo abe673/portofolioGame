@@ -1,11 +1,13 @@
-selamat pagi , mengenai game yang saya pelajari ini adalah ending meskipun belum sempurna.
-saya melampirkan  2 prototype game yang saya buat sebagai sample :
 
-NOTE untuk pc 
+
+
+## RANDOM IS BULLSHIT
 
 <img src="https://github.com/abe673/portofolioGame/blob/main/lottery.png?raw=true" height="300">
 
 [MagicLotteryMachineForPc.rar](https://drive.google.com/file/d/1JSYZearfJlkCR8DJR1th8YI0c1NKkc7r/view?usp=sharing) gamelottery single input
+
+## LOMBA LARI SPRINT
 
 <img src="https://github.com/abe673/portofolioGame/blob/main/sprintgame.png?raw=true" height="300">
 
@@ -15,6 +17,11 @@ sprint game 2 player untuk pc *NOTE input player1 = key Q dan W ,dan Player2 = O
 
 
 atas perhatiannya saya ucapkan banyak terimakasih.
+
+## NOTE
+
+Game di buat berdasarkan rencana konsep terhubung dengan Arduino sebagai control input.
+
 email me @ [bagusrezakharisma@gmail.com](bagusrezakharisma@gmail.com)
 
 
